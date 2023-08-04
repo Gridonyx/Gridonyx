@@ -8,7 +8,6 @@ In love with the process of creating and learning.
 ### Need Documentation?
 
 Need assistance in creating or maintaining documentation for your open-source project? I would love to help out! I have extensive experience in writing how-to and troubleshooting guides, reference material, and API documentation for technical and non-technical audiences. I also have experience in writing copy for websites. Feel free to reach out using any of the services below:
-- [Keybase.io](https://keybase.io/jamesmontour)
 - [Telegram](https://t.me/gridonyx)
 - [Twitter](https://twitter.com/jamesmontour)
 - @Gridonyx on Discord
