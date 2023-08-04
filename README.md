@@ -11,5 +11,6 @@ Need assistance in creating or maintaining documentation for your open-source pr
 - [Keybase.io](https://keybase.io/jamesmontour)
 - [Telegram](https://t.me/gridonyx)
 - [Twitter](https://twitter.com/jamesmontour)
+- @Gridonyx on Discord
 
 [![Gridonyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gridonyx&theme=synthwave&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
