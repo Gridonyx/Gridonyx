@@ -1,7 +1,7 @@
 ![HackerPepega](https://gridonyx.com/assets/img/hackerpepega.gif)
 
 ## Hey there
-I'm James, a full-time IT Manager/Systems Administrator as well as a part-time Maker, Developer, Filmmaker, Photographer.
+I'm James, an IT AVP and Systems Administrator as well as a part-time Maker, Developer, Filmmaker, Photographer.
 
 In love with the process of creating and learning.
 
