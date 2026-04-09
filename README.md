@@ -1,4 +1,1 @@
-![HackerPepega](https://gridonyx.com/assets/img/hackerpepega.gif)
-
-## Hey there
-I'm James, an IT VP and Systems Administrator, on the side I love to do woodworking, take photos, make short films, mess around with radios, and write code.
+## I am no longer using GitHub, I fundamentally disagree with Microsoft and the direction they are going as a company. They continually choose to undermine their individual users, as well as businesses and I do not wish to contribute anything to them or their products any longer.
